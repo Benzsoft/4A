@@ -1,0 +1,26 @@
+{
+  "id": "new-testament",
+  "title": "New Testament",
+  "description": "Study the life of Jesus and early church through New Testament readings",
+  "duration": "4 months",
+  "totalDays": 120,
+  "lessons": [
+    {
+      "day": 1,
+      "title": "The Gospel Begins",
+      "scripture": "Matthew 1:1-17",
+      "content": "We begin our New Testament journey with Matthew's genealogy of Jesus, showing His royal lineage and God's faithfulness to His promises.",
+      "keyThemes": [
+        "Jesus' lineage",
+        "God's faithfulness",
+        "Fulfilled prophecy"
+      ],
+      "reflectionQuestions": [
+        "Why is Jesus' genealogy important?",
+        "What does this genealogy tell us about God's faithfulness?",
+        "How do you see God's plan unfolding through generations?"
+      ],
+      "practicalApplication": "Consider God's faithfulness in your own family history and how He has worked through generations to bring you to this point."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "old-testament",
+  "title": "Old Testament",
+  "description": "Journey through the Old Testament with structured daily readings and historical context",
+  "duration": "7 months",
+  "totalDays": 210,
+  "lessons": [
+    {
+      "day": 1,
+      "title": "Genesis: The Beginning",
+      "scripture": "Genesis 1:1-2:3",
+      "content": "We begin our Old Testament journey with the creation account, establishing God's sovereignty and purpose in creation.",
+      "keyThemes": [
+        "Creation",
+        "God's sovereignty",
+        "Foundation of faith"
+      ],
+      "reflectionQuestions": [
+        "What does Genesis 1 reveal about God's character?",
+        "How does the creation account form the foundation for the rest of Scripture?",
+        "What does it mean to be created in God's image?"
+      ],
+      "practicalApplication": "Reflect on your role as a steward of God's creation and how you can fulfill this responsibility today."
+    }
+  ]
+}

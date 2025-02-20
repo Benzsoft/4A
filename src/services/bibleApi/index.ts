@@ -1,0 +1,1 @@
+export { searchVerses } from './api';

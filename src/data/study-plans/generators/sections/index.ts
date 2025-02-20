@@ -1,0 +1,9 @@
+export { generateGospelsActsLessons } from './gospels-acts';
+export { generatePaulineEpistlesLessons } from './pauline-epistles';
+export { generateGeneralEpistlesLessons } from './general-epistles';
+export { generateRevelationLessons } from './revelation';
+export { generateLawLessons } from './law';
+export { generateHistoricalBooksLessons } from './historical-books';
+export { generatePoetryLessons } from './poetry';
+export { generateMajorProphetsLessons } from './major-prophets';
+export { generateMinorProphetsLessons } from './minor-prophets';
